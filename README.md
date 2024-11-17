@@ -12,5 +12,6 @@ ask someone to consider sponsoring your proposed agenda item.
 
 This repository was created in accordance with the decision taken at the meeting dated September 1,
 2024, to make it easier to track changes. In this direction, the agenda of the biweekly developer
-meetings was moved from Google Docs to Github. You can access the agenda used in the past
-[here](https://docs.google.com/document/d/1r-Hi7VymyCbQK0DUtu0yz2fWCelyzPXKeTTZDIiuXV8/edit).
+meetings was moved from [Google Docs](https://docs.google.com/document/d/1r-Hi7VymyCbQK0DUtu0yz2fWCelyzPXKeTTZDIiuXV8/edit) to Github. 
+
+Meeting minutes are created by FPA admins with screenapp.io and saved in the minutes folder with the same name as the meeting date.
